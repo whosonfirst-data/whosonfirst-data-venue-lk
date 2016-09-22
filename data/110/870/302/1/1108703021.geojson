@@ -1,0 +1,63 @@
+{
+  "id": 1108703021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"80.6369233,7.2943526,80.6369233,7.2943526",
+    "geom:latitude":7.294353,
+    "geom:longitude":80.636923,
+    "iso:country":"LK",
+    "mz:hierarchy_label":1,
+    "sg:address":"336 Colombo Road Peradeniya",
+    "sg:city":"Kandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"20400",
+    "sg:tags":[
+        "web-marketing",
+        "web-hosting",
+        "web-design",
+        "sri-lanka"
+    ],
+    "sg:website":"http://www.DPLwebmarketing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZWp84942xVkFzmY021Gyf_7.294353_80.636923@1308163241"
+    },
+    "wof:country":"LK",
+    "wof:created":1474570906,
+    "wof:geomhash":"2f7f020a6578ef69eb8a299ee26e0ccf",
+    "wof:hierarchy":[],
+    "wof:id":1108703021,
+    "wof:lastmodified":1474570906,
+    "wof:name":"DPLwebmarketing.com",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-lk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-marketing",
+        "web-hosting",
+        "web-design",
+        "sri-lanka"
+    ]
+},
+  "bbox": [
+    80.6369233,
+    7.2943526,
+    80.6369233,
+    7.2943526
+],
+  "geometry": {"coordinates":[80.63692330000001,7.2943526],"type":"Point"}
+}
